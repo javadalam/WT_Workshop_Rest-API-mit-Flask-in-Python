@@ -48,6 +48,6 @@ Aufgrund dem Anwendungsbereich von *Flask* richtet sich der Workshop stärker an
 - Python [Dokumentation](https://docs.python.org/3/)
 - Flask [Dokumentation](https://flask.palletsprojects.com/en/2.0.x/)
 - Postman [Dokumentation](https://learning.postman.com/docs/publishing-your-api/documenting-your-api/)
-- [Github Repo mit Übungen](https://github.com/javadalam/WT_Workshop_Rest-API-mit-Flask-in-Python/main/Aufgaben)
-- [Folien](https://github.com/javadalam/WT_Workshop_Rest-API-mit-Flask-in-Python/main/Folien) 
+- [Github Repo mit Übungen](https://github.com/javadalam/WT_Workshop_Rest-API-mit-Flask-in-Python/tree/main/Aufgaben)
+- [Folien](https://github.com/javadalam/WT_Workshop_Rest-API-mit-Flask-in-Python/tree/main/Folien) 
 - [Aufzeichnung](https://github.com/javadalam/WT_Workshop_Rest-API-mit-Flask-in-Python/tree/main/Aufzeichnungen) herunterladen 
