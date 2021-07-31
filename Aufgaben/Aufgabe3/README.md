@@ -8,4 +8,4 @@ __Achtung:__ normalerweise erhalten Sie eine Fehlermeldung, wenn Sie `import req
 
 Beispiel : 
 
-![Beispiel](Capture1.png)
+![Beispiel](Capture1.PNG)
