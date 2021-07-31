@@ -41,6 +41,7 @@ Aufgrund dem Anwendungsbereich von *Flask* richtet sich der Workshop stärker an
 
 ## Vorbereitungen
 - [Python](https://www.python.org/downloads/) für VSCode installieren 
+- [requests PyPI](https://pypi.org/project/requests/) extera in VSCode installieren
 - [Postman](https://www.postman.com/downloads/) installieren (Optional)
 - [Github Repo zum Workshop](https://github.com/javadalam/WT_Workshop_Rest-API-mit-Flask-in-Python) clonen 
 
@@ -50,4 +51,4 @@ Aufgrund dem Anwendungsbereich von *Flask* richtet sich der Workshop stärker an
 - Postman [Dokumentation](https://learning.postman.com/docs/publishing-your-api/documenting-your-api/)
 - [Github Repo mit Übungen](https://github.com/javadalam/WT_Workshop_Rest-API-mit-Flask-in-Python/tree/main/Aufgaben)
 - [Folien](https://github.com/javadalam/WT_Workshop_Rest-API-mit-Flask-in-Python/tree/main/Folien) 
-- [Aufzeichnung](https://github.com/javadalam/WT_Workshop_Rest-API-mit-Flask-in-Python/tree/main/Aufzeichnungen) herunterladen 
+- [Aufzeichnung](https://github.com/javadalam/WT_Workshop_Rest-API-mit-Flask-in-Python/tree/main/Aufzeichnungen) herunterladen oder alternative in mein [Youtube](https://www.youtube.com/watch?v=QmtrVbVT0kM&list=PLWwujj8_REAaHniPpV8Paq4DXYfjshpNR&ab_channel=JavadAlamdar) online sehen 
